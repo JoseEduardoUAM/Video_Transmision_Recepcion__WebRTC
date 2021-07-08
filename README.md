@@ -10,7 +10,7 @@ Para iniciar la aplicacion desde Node.js:
 npm install
 
 # Run the server
-node server
+npm start
 ```
 
 ### Probando la Aplicación
