@@ -1,20 +1,20 @@
-# Transmisión de video de un dispositivo a otro por medio de WebRTC
+# Transmision de video de un dispositivo a otro por medio de WebRTC
 
 Aplicación de transmisión WebRTC PeerToPeer (punto a punto) que permite a la emisora enviar un flujo de audio y video a todos los usuarios conectados (observadores).
 ## Empezando
 ### Iniciando la aplicación
-Para iniciar la aplicacion desde Node.js:
+Para iniciar la aplicacion desde Node.Js:
 
 ```bash
-# Instalacion de dependencias
+# Install dependencies for server
 npm install
 
-# Correr el Servidor
+# Run the server
 node server
 ```
 
 ### Probando la Aplicación
-Para el transmisor se debe ocupar la dirección:
+Para el transmisior se debe ocupar la dirección:
 >En el mismo equipo: https://localhost:4000/Transmitir
   En diferentes equipos:   https://[ip_servidor]:4000/Transmitir por ejemplo https://192.168.1.67:4000/Transmitir
 
