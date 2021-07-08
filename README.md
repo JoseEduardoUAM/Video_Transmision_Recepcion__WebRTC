@@ -3,7 +3,7 @@
 Aplicación de transmisión WebRTC PeerToPeer (punto a punto) que permite a la emisora enviar un flujo de audio y video a todos los usuarios conectados (observadores).
 ## Empezando
 ### Iniciando la aplicación
-Para iniciar la aplicacion desde Node.Js:
+Para iniciar la aplicacion desde Node.js:
 
 ```bash
 # Install dependencies for server
